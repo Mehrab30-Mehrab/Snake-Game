@@ -62,6 +62,6 @@ python snake_game.py
 ---
 
 <p align="center">
-  <em>Made with ❤️ by [Mehrab](https://github.com/Mehrab) | Feel free to fork, clone, and contribute!</em>
+  <em>Made with ❤️ by [Mehrab](https://github.com/Mehrab30-Mehrab) | Feel free to fork, clone, and contribute!</em>
 </p>
 
